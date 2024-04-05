@@ -1,0 +1,16 @@
+Um grupo de pessoas em uma praia
+
+{
+  "apim-request-id": "ba781225-24ac-4b0e-ba54-211a37eec8fe",
+  "comprimento do conteúdo": "155",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "texto": "um grupo de pessoas na praia",
+    "confiança": 0,6960616111755371
+  },
+  "metadados": {
+    "largura": 640,
+    "altura": 424
+  }
+}
