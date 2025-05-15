@@ -71,7 +71,7 @@ Reconhecimento-Facial/
 
 ## 👤 Autor
 
-- Gabriel ([@Anbuyyy9](https://github.com/Anbuyyy9))
+- ([@Anbuyyy9](https://github.com/Anbuyyy9))
 
 ---
 
